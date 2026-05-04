@@ -1,0 +1,5 @@
+pytest>=7.0
+selenium>=4.0
+webdriver-manager>=4.0
+pytest-html>=3.0
+Pillow>=9.0
